@@ -1,1 +1,1 @@
-This is Code With Owais Khan Cli Simple Calculator
+This is Code With Owais Khan Simple Calculator
